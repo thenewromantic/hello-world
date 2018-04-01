@@ -1,2 +1,8 @@
 # hello-world
-GitHub Guide Hello World
+
+I'm travelling the road of a self taught coder.
+
+It is...
+
+
+        challenging.
